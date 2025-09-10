@@ -1,4 +1,5 @@
 using ProjetoLoja.Repositório;
+using ProjetoLoja.Repositorio;
 
 var builder = WebApplication.CreateBuilder(args);
 
