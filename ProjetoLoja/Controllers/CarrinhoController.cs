@@ -1,8 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using ProjetoLoja.Repositório;
+using ProjetoLoja.Repositorio;
 
-
-namespace ProjetoLoja3d.Controllers
+namespace ProjetoLoja.Controllers
 {
     public class CarrinhoController : Controller
     {
